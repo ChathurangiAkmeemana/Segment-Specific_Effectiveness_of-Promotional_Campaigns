@@ -1,6 +1,6 @@
 ## 📌 Project Summary  
 Promotional campaigns (Discounts, BOGO offers) don’t affect every customer the same way.  
-This project looks at Heterogeneous Treatment Effects (HTE) to understand *which groups of customers benefit most (or least) from promotions.  
+This project looks at Heterogeneous Treatment Effects (HTE) to understand which groups of customers benefit most (or least) from promotions.  
 
 We used a Kaggle dataset with 64,000 customer records to test two approaches:  
 1. Interaction Analysis – check how offers work for different groups (past behavior, referral, location, channel, engagement).  
